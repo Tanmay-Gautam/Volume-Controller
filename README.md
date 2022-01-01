@@ -85,7 +85,7 @@
 
 ## Contact 💬
 
-Your Name - [@_tanmaygautam](https://instagram.com/_tanmaygautam) - tanmaygautam146@gmail.com
+Tanmay Gautam - [@_tanmaygautam](https://instagram.com/_tanmaygautam) - tanmaygautam146@gmail.com
 
 Project Link: [https://github.com/Tanmay-Gautam/Volume-Controller](https://github.com/Tanmay-Gautam/Volume-Controller)
 
